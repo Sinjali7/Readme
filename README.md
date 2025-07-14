@@ -1,9 +1,9 @@
-# 👋 Hey there, I'm Sugam Sinjali
+# 👋 Hey there, I'm [Your Name Here]
 
-🎓 Electronics & Communication Student  
-🤖 Tinkering with Raspberry Pi, Python, and AI  
-💻 Building tools that combine voice, vision, and automation  
-🌐 [Portfolio Website](https://yourwebsite.com)
+🎓 Computer Engineering Student  
+💻 Passionate about software development, systems programming, and emerging tech  
+🚀 Building things with Python, C++, and web tech — from games to real-time systems  
+🌐 [Website](https://sugamsinjali.com.np)
 
 ---
 
@@ -21,9 +21,9 @@
 ## 🔺 Top 3 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinjali7&layout=pie&langs_count=3&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinjali7E&layout=pie&langs_count=3&theme=radical" />
 </p>
 
 ---
 
-> _“Building systems that listen, think, and act.”_
+> _“Code is not just syntax; it's the closest we get to magic.”_
