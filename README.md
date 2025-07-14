@@ -21,7 +21,7 @@
 ## 🔺 Top 3 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinjali7E&layout=pie&langs_count=3&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinjali7&layout=pie&langs_count=3&theme=radical" />
 </p>
 
 ---
